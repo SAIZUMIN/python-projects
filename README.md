@@ -4,26 +4,27 @@ A collection of Python projects I built while learning and improving my programm
 
 This repository documents my progression from basic Python programs to more structured and practical applications. Each project was created to practice programming concepts and improve my problem-solving skills.
 
-
-
-```markdown
 ## 📚 Project Progress
 
-| #    | Project                 | Level        | Main Concepts                                      |
-| ---- | ----------------------- | ------------ | -------------------------------------------------- |
-| 01   | Mini RPG                | Beginner     | Variables, conditions, loops, random numbers       |
-| 02   | Grade Calculator        | Beginner     | Input, arithmetic, conditions, validation          |
-| 03   | ATM Transaction Tracker | Beginner     | Loops, conditions, counters, accumulators          |
-| 04   | Quiz Game               | Beginner     | Input validation, scoring, loops, conditions       |
-| 04V2 | Guessing Game           | Beginner     | Improvements and practice version                  |
-| 05   | Battle Arena            | Beginner     | Random numbers, loops, conditions, game logic      |
-| 06   | Store Checkout          | Beginner     | Arithmetic, accumulators, discounts, payment logic |
-| 07   | Inventory System        | Beginner     | Stock management, validation, conditions           |
-| 08   | Banking System          | Beginner     | Login system, nested loops, transactions           |
-| 09   | To-Do List Manager      | Intermediate | Lists, indexing, append(), pop(), for loops        |
-| 10   | Student Project Manager | Intermediate | Multiple lists, searching, index(), updating data  |
-| 11   | Expense Tracker         | Intermediate | Lists, searching, deleting, accumulators, totals   |
-# Project Structure
+| #    | Project                  | Level        | Main Concepts                                       |
+| ---- | ------------------------ | ------------ | --------------------------------------------------  |
+| 01   | Mini RPG                 | Beginner     | Variables, conditions, loops, random numbers        |
+| 02   | Grade Calculator         | Beginner     | Input, arithmetic, conditions, validation           |
+| 03   | ATM Transaction Tracker  | Beginner     | Loops, conditions, counters, accumulators           |
+| 04   | Quiz Game                | Beginner     | Input validation, scoring, loops, conditions        |
+| 04V2 | Guessing Game            | Beginner     | Improvements and practice version                   |
+| 05   | Battle Arena             | Beginner     | Random numbers, loops, conditions, game logic       |
+| 06   | Store Checkout           | Beginner     | Arithmetic, accumulators, discounts, payment logic  |
+| 07   | Inventory System         | Beginner     | Stock management, validation, conditions            |
+| 08   | Banking System           | Beginner     | Login system, nested loops, transactions            |
+| 09   | To-Do List Manager       | Intermediate | Lists, indexing, append(), pop(), for loops         |
+| 10   | Student Project Manager  | Intermediate | Multiple lists, searching, index(), updating data   |
+| 11   | Expense Tracker          | Intermediate | Lists, searching, deleting, accumulators, totals    |
+| 12   | Contact Manager          | Intermediate | Multiple lists, searching, updating, deleting data  |
+| 13   | Library Manager          | Intermediate | Lists, Boolean state, searching, data management    |
+| 14   | Product Manager          | Intermediate | Dictionaries, searching, updating, deleting data    |
+
+## 🗂️ Project Structure
 
 ```text
 python-projects/
@@ -37,10 +38,15 @@ python-projects/
 │   ├── project-06-store-checkout.py
 │   ├── project-07-inventory-system.py
 │   └── project-08-banking-system.py
+│
 ├── intermediate-projects
 │   ├── project-09-to_do-List-Manager.py
 │   ├── project-10-mini-student-project_manager.py
-│   └── project-11-mini-expense-tracker
+│   ├── project-11-mini-expense-tracker
+│   ├── project-12-mini-contact-manager.py
+│   ├── project-13-mini-library-manager.py
+│   └── project-14-mini-product-manager.py
+│
 └── README.md
 
 🎯 Purpose
@@ -81,6 +87,17 @@ Updating list values
 Using multiple related lists
 Searching list data
 Calculating totals from list values
+Dictionaries and Data Management
+Creating dictionaries
+Dictionary keys and values
+Accessing dictionary values
+Adding dictionary data
+Updating dictionary values
+Searching dictionary data
+Deleting dictionary data
+Using in with dictionaries
+Using .pop() with dictionaries
+Looping through dictionary data
 Programming Concepts
 Program flow
 State management
@@ -90,6 +107,7 @@ User input handling
 Basic transaction systems
 Basic authentication logic
 List-based data management
+Dictionary-based data management
 Debugging
 Problem solving
 📈 Learning Progress
@@ -115,9 +133,9 @@ Counters and accumulators
 Transaction tracking
 Login systems
 Inventory management
-Projects 9–11
+Projects 9–12
 
-Focused on learning how to work with lists and manage multiple pieces of related data:
+Focused on working with lists and managing multiple pieces of related data:
 
 Lists
 List indexing
@@ -128,16 +146,28 @@ Updating values
 Multiple related lists
 Accumulating values
 Calculating totals
+Contact management
+Projects 13–14
+
+Focused on introducing dictionaries and managing structured data:
+
+Boolean state management
+Dictionaries
+Keys and values
+Searching dictionary data
+Adding and updating dictionary data
+Deleting dictionary data
+Managing structured information
 🚀 Future Projects
 
 This repository will continue to grow as I learn more Python.
 
 Future projects will gradually introduce concepts such as:
 
-Functions
-Dictionaries
-File handling
 Error handling
+Functions
+Modules
+File handling
 Object-oriented programming
 APIs
 SQL and databases
@@ -145,7 +175,7 @@ Automation
 Larger Python applications
 📌 Current Level
 
-These projects are part of my beginner Python learning stage.
+These projects are part of my beginner to early-intermediate Python learning stage.
 
 The goal is not to create production-level software yet, but to build a strong programming foundation before moving into more advanced Python development.
 
