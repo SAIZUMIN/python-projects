@@ -47,7 +47,7 @@ while True:
         search_contact = input('Enter contact name to search: ').title()
         if search_contact in names:
             position = names.index(search_contact)
-            print(f'name found contact number: {phones[i]}')
+            print(f'name found contact number: {phones[position]}')
         else:
             print('name not found in contacts!')
 
