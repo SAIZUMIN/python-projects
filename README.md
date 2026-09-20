@@ -11,20 +11,22 @@ This repository documents my progression from basic Python programs to more stru
 | 01   | Mini RPG                 | Beginner     | Variables, conditions, loops, random numbers      |
 | 02   | Grade Calculator         | Beginner     | Input, arithmetic, conditions, validation          |
 | 03   | ATM Transaction Tracker  | Beginner     | Loops, conditions, counters, accumulators          |
-| 04   | Quiz Game                | Beginner     | Input validation, scoring, loops, conditions       |
-| 04V2 | Guessing Game            | Beginner     | Improvements and practice version                  |
+| 04   | Quiz Game                | Beginner     | Input validation, scoring, loops, conditions      |
+| 04V2 | Guessing Game            | Beginner     | Improvements and practice version                 |
 | 05   | Battle Arena             | Beginner     | Random numbers, loops, conditions, game logic      |
 | 06   | Store Checkout           | Beginner     | Arithmetic, accumulators, discounts, payment logic |
-| 07   | Inventory System         | Beginner     | Stock management, validation, conditions            |
-| 08   | Banking System           | Beginner     | Login system, nested loops, transactions            |
-| 09   | To-Do List Manager       | Intermediate | Lists, indexing, append(), pop(), for loops         |
-| 10   | Student Project Manager  | Intermediate | Multiple lists, searching, index(), updating data   |
-| 11   | Expense Tracker          | Intermediate | Lists, searching, deleting, accumulators, totals    |
-| 12   | Contact Manager          | Intermediate | Multiple lists, searching, updating, deleting data  |
-| 13   | Library Manager          | Intermediate | Lists, Boolean state, searching, data management    |
-| 14   | Product Manager          | Intermediate | Dictionaries, searching, updating, deleting data    |
-| 15   | Student Record Manager   | Intermediate | Nested dictionaries, structured data, validation    |
-| 16   | Employee Manager         | Intermediate | Nested dictionaries, data updates, calculations     |
+| 07   | Inventory System         | Beginner     | Stock management, validation, conditions           |
+| 08   | Banking System           | Beginner     | Login system, nested loops, transactions           |
+| 09   | To-Do List Manager       | Intermediate | Lists, indexing, append(), pop(), for loops        |
+| 10   | Student Project Manager  | Intermediate | Multiple lists, searching, index(), updating data  |
+| 11   | Expense Tracker          | Intermediate | Lists, searching, deleting, accumulators, totals   |
+| 12   | Contact Manager          | Intermediate | Multiple lists, searching, updating, deleting data |
+| 13   | Library Manager          | Intermediate | Lists, Boolean state, searching, data management   |
+| 14   | Product Manager          | Intermediate | Dictionaries, searching, updating, deleting data   |
+| 15   | Student Record Manager   | Intermediate | Nested dictionaries, structured data, validation   |
+| 16   | Employee Manager         | Intermediate | Nested dictionaries, data updates, calculations    |
+| 17   | Sales Manager            | Intermediate | Nested dictionaries, calculations, averages       |
+| 18   | Store Sales System       | Intermediate | Nested dictionaries, inventory, calculations, validation |
 
 ## 🗂️ Project Structure
 
@@ -50,7 +52,9 @@ python-projects/
 │   ├── project-13-mini-library-manager.py
 │   ├── project-14-mini-product-manager.py
 │   ├── project-15-mini-student-record-manager.py
-│   └── project-16-mini-employee-manager.py
+│   ├── project-16-mini-employee-manager.py
+│   ├── project-17-mini-sales-manager.py
+│   └── project-18-mini-store-sales-system.py
 │
 └── README.md
 
@@ -108,6 +112,17 @@ Nested dictionaries
 Accessing nested dictionary values
 Updating nested dictionary values
 Managing structured information
+Calculating values from nested data
+Inventory and Data Systems
+Product management
+Stock management
+Adding and removing stock
+Selling products
+Restocking products
+Preventing negative stock
+Calculating store value
+Managing product prices
+Managing multiple values per record
 Programming Concepts
 Program flow
 State management
@@ -120,6 +135,7 @@ List-based data management
 Dictionary-based data management
 Structured data management
 Calculations using stored data
+Average calculations
 Debugging
 Problem solving
 📈 Learning Progress
@@ -182,6 +198,21 @@ Data validation
 Searching structured data
 Deleting structured data
 Calculating totals from dictionary data
+Projects 17–18
+
+Focused on using nested dictionaries for more practical data management and calculations:
+
+Managing sales records
+Calculating total sales
+Calculating average sales
+Managing product inventory
+Managing product prices
+Restocking products
+Selling products
+Preventing negative stock
+Calculating total store value
+Combining multiple operations in one system
+More complex validation and program logic
 🚀 Future Projects
 
 This repository will continue to grow as I learn more Python.
@@ -202,6 +233,8 @@ Larger Python applications
 These projects are part of my beginner to early-intermediate Python learning stage.
 
 The goal is not to create production-level software yet, but to build a strong programming foundation before moving into more advanced Python development.
+
+After completing the current projects, the next focus will be learning functions, error handling, file handling, modules, APIs, and databases while continuing to build larger applications.
 
 🛠️ Tools
 Python
