@@ -6,15 +6,15 @@ This repository documents my progression from basic Python programs to more stru
 
 ## 📚 Project Progress
 
-| #    | Project                  | Level        | Main Concepts                                       |
-| ---- | ------------------------ | ------------ | --------------------------------------------------  |
-| 01   | Mini RPG                 | Beginner     | Variables, conditions, loops, random numbers        |
-| 02   | Grade Calculator         | Beginner     | Input, arithmetic, conditions, validation           |
-| 03   | ATM Transaction Tracker  | Beginner     | Loops, conditions, counters, accumulators           |
-| 04   | Quiz Game                | Beginner     | Input validation, scoring, loops, conditions        |
-| 04V2 | Guessing Game            | Beginner     | Improvements and practice version                   |
-| 05   | Battle Arena             | Beginner     | Random numbers, loops, conditions, game logic       |
-| 06   | Store Checkout           | Beginner     | Arithmetic, accumulators, discounts, payment logic  |
+| #    | Project                  | Level        | Main Concepts                                      |
+| ---- | ------------------------ | ------------ | -------------------------------------------------- |
+| 01   | Mini RPG                 | Beginner     | Variables, conditions, loops, random numbers      |
+| 02   | Grade Calculator         | Beginner     | Input, arithmetic, conditions, validation          |
+| 03   | ATM Transaction Tracker  | Beginner     | Loops, conditions, counters, accumulators          |
+| 04   | Quiz Game                | Beginner     | Input validation, scoring, loops, conditions       |
+| 04V2 | Guessing Game            | Beginner     | Improvements and practice version                  |
+| 05   | Battle Arena             | Beginner     | Random numbers, loops, conditions, game logic      |
+| 06   | Store Checkout           | Beginner     | Arithmetic, accumulators, discounts, payment logic |
 | 07   | Inventory System         | Beginner     | Stock management, validation, conditions            |
 | 08   | Banking System           | Beginner     | Login system, nested loops, transactions            |
 | 09   | To-Do List Manager       | Intermediate | Lists, indexing, append(), pop(), for loops         |
@@ -23,11 +23,14 @@ This repository documents my progression from basic Python programs to more stru
 | 12   | Contact Manager          | Intermediate | Multiple lists, searching, updating, deleting data  |
 | 13   | Library Manager          | Intermediate | Lists, Boolean state, searching, data management    |
 | 14   | Product Manager          | Intermediate | Dictionaries, searching, updating, deleting data    |
+| 15   | Student Record Manager   | Intermediate | Nested dictionaries, structured data, validation    |
+| 16   | Employee Manager         | Intermediate | Nested dictionaries, data updates, calculations     |
 
 ## 🗂️ Project Structure
 
 ```text
 python-projects/
+
 ├── beginner-projects
 │   ├── project-01-mini-rpg.py
 │   ├── project-02-grade-calculator.py
@@ -45,7 +48,9 @@ python-projects/
 │   ├── project-11-mini-expense-tracker
 │   ├── project-12-mini-contact-manager.py
 │   ├── project-13-mini-library-manager.py
-│   └── project-14-mini-product-manager.py
+│   ├── project-14-mini-product-manager.py
+│   ├── project-15-mini-student-record-manager.py
+│   └── project-16-mini-employee-manager.py
 │
 └── README.md
 
@@ -87,6 +92,7 @@ Updating list values
 Using multiple related lists
 Searching list data
 Calculating totals from list values
+Boolean state management
 Dictionaries and Data Management
 Creating dictionaries
 Dictionary keys and values
@@ -98,6 +104,10 @@ Deleting dictionary data
 Using in with dictionaries
 Using .pop() with dictionaries
 Looping through dictionary data
+Nested dictionaries
+Accessing nested dictionary values
+Updating nested dictionary values
+Managing structured information
 Programming Concepts
 Program flow
 State management
@@ -108,6 +118,8 @@ Basic transaction systems
 Basic authentication logic
 List-based data management
 Dictionary-based data management
+Structured data management
+Calculations using stored data
 Debugging
 Problem solving
 📈 Learning Progress
@@ -158,6 +170,18 @@ Searching dictionary data
 Adding and updating dictionary data
 Deleting dictionary data
 Managing structured information
+Projects 15–16
+
+Focused on working with nested dictionaries and managing more structured data:
+
+Nested dictionaries
+Accessing nested values
+Updating nested values
+Employee and student records
+Data validation
+Searching structured data
+Deleting structured data
+Calculating totals from dictionary data
 🚀 Future Projects
 
 This repository will continue to grow as I learn more Python.
