@@ -6,27 +6,31 @@ This repository documents my progression from basic Python programs to more stru
 
 ## 📚 Project Progress
 
-| #    | Project                  | Level        | Main Concepts                                      |
-| ---- | ------------------------ | ------------ | -------------------------------------------------- |
-| 01   | Mini RPG                 | Beginner     | Variables, conditions, loops, random numbers      |
-| 02   | Grade Calculator         | Beginner     | Input, arithmetic, conditions, validation          |
-| 03   | ATM Transaction Tracker  | Beginner     | Loops, conditions, counters, accumulators          |
-| 04   | Quiz Game                | Beginner     | Input validation, scoring, loops, conditions      |
-| 04V2 | Guessing Game            | Beginner     | Improvements and practice version                 |
-| 05   | Battle Arena             | Beginner     | Random numbers, loops, conditions, game logic      |
-| 06   | Store Checkout           | Beginner     | Arithmetic, accumulators, discounts, payment logic |
-| 07   | Inventory System         | Beginner     | Stock management, validation, conditions           |
-| 08   | Banking System           | Beginner     | Login system, nested loops, transactions           |
-| 09   | To-Do List Manager       | Intermediate | Lists, indexing, append(), pop(), for loops        |
-| 10   | Student Project Manager  | Intermediate | Multiple lists, searching, index(), updating data  |
-| 11   | Expense Tracker          | Intermediate | Lists, searching, deleting, accumulators, totals   |
-| 12   | Contact Manager          | Intermediate | Multiple lists, searching, updating, deleting data |
-| 13   | Library Manager          | Intermediate | Lists, Boolean state, searching, data management   |
-| 14   | Product Manager          | Intermediate | Dictionaries, searching, updating, deleting data   |
-| 15   | Student Record Manager   | Intermediate | Nested dictionaries, structured data, validation   |
-| 16   | Employee Manager         | Intermediate | Nested dictionaries, data updates, calculations    |
-| 17   | Sales Manager            | Intermediate | Nested dictionaries, calculations, averages       |
-| 18   | Store Sales System       | Intermediate | Nested dictionaries, inventory, calculations, validation |
+| #    | Project                    | Level        | Main Concepts                                      |
+| ---- | -------------------------- | ------------ | -------------------------------------------------- |
+| 01   | Mini RPG                   | Beginner     | Variables, conditions, loops, random numbers       |
+| 02   | Grade Calculator           | Beginner     | Input, arithmetic, conditions, validation           |
+| 03   | ATM Transaction Tracker    | Beginner     | Loops, conditions, counters, accumulators           |
+| 04   | Quiz Game                  | Beginner     | Input validation, scoring, loops, conditions        |
+| 04V2 | Guessing Game              | Beginner     | Improvements and practice version                   |
+| 05   | Battle Arena               | Beginner     | Random numbers, loops, conditions, game logic       |
+| 06   | Store Checkout             | Beginner     | Arithmetic, accumulators, discounts, payment logic  |
+| 07   | Inventory System           | Beginner     | Stock management, validation, conditions            |
+| 08   | Banking System             | Beginner     | Login system, nested loops, transactions            |
+| 09   | To-Do List Manager         | Intermediate | Lists, indexing, append(), pop(), for loops         |
+| 10   | Student Project Manager    | Intermediate | Multiple lists, searching, index(), updating data   |
+| 11   | Expense Tracker            | Intermediate | Lists, searching, deleting, accumulators, totals    |
+| 12   | Contact Manager            | Intermediate | Multiple lists, searching, updating, deleting data  |
+| 13   | Library Manager            | Intermediate | Lists, Boolean state, searching, data management    |
+| 14   | Product Manager            | Intermediate | Dictionaries, searching, updating, deleting data    |
+| 15   | Student Record Manager     | Intermediate | Nested dictionaries, structured data, validation    |
+| 16   | Employee Manager           | Intermediate | Nested dictionaries, data updates, calculations     |
+| 17   | Sales Manager              | Intermediate | Nested dictionaries, calculations, averages         |
+| 18   | Store Sales System         | Intermediate | Nested dictionaries, inventory, calculations        |
+| 19   | Mini Calculator            | Intermediate | Functions, parameters, return values, arithmetic    |
+| 20   | Banking System V2          | Intermediate | Functions, parameters, multiple returns, booleans  |
+| 21   | Inventory Functions System | Intermediate | Functions, dictionaries, mutation, data management  |
+| 22   | User Account System        | Intermediate | Nested dictionaries, functions, login, booleans     |
 
 ## 🗂️ Project Structure
 
@@ -54,7 +58,11 @@ python-projects/
 │   ├── project-15-mini-student-record-manager.py
 │   ├── project-16-mini-employee-manager.py
 │   ├── project-17-mini-sales-manager.py
-│   └── project-18-mini-store-sales-system.py
+│   ├── project-18-mini-store-sales-system.py
+│   ├── project-19-mini-calculator.py
+│   ├── project-20-mini-banking-system-v2.py
+│   ├── project-21-mini-inventory-functions.py
+│   └── project-22-mini-user-account-system.py
 │
 └── README.md
 
@@ -113,6 +121,19 @@ Accessing nested dictionary values
 Updating nested dictionary values
 Managing structured information
 Calculating values from nested data
+Functions
+Creating functions with def
+Calling functions
+Function parameters
+Passing arguments
+return
+Returning calculated values
+Returning multiple values
+Unpacking returned values
+Boolean return values
+Using function results in conditions
+Using functions with dictionaries
+Modifying mutable dictionaries inside functions
 Inventory and Data Systems
 Product management
 Stock management
@@ -123,6 +144,9 @@ Preventing negative stock
 Calculating store value
 Managing product prices
 Managing multiple values per record
+User account management
+Basic authentication logic
+Balance management
 Programming Concepts
 Program flow
 State management
@@ -131,11 +155,10 @@ Repetition
 User input handling
 Basic transaction systems
 Basic authentication logic
-List-based data management
-Dictionary-based data management
 Structured data management
 Calculations using stored data
 Average calculations
+Function-based program structure
 Debugging
 Problem solving
 📈 Learning Progress
@@ -193,7 +216,8 @@ Focused on working with nested dictionaries and managing more structured data:
 Nested dictionaries
 Accessing nested values
 Updating nested values
-Employee and student records
+Student records
+Employee records
 Data validation
 Searching structured data
 Deleting structured data
@@ -213,6 +237,23 @@ Preventing negative stock
 Calculating total store value
 Combining multiple operations in one system
 More complex validation and program logic
+Projects 19–22
+
+Focused on introducing functions and using them with structured data:
+
+Creating and calling functions
+Function parameters
+Passing arguments
+Returning values
+Returning multiple values
+Boolean return values
+Using function results in conditions
+Functions with dictionaries
+Modifying mutable dictionaries
+User account management
+Login validation
+Deposit and withdrawal systems
+Combining functions with nested dictionaries
 🚀 Future Projects
 
 This repository will continue to grow as I learn more Python.
@@ -220,9 +261,8 @@ This repository will continue to grow as I learn more Python.
 Future projects will gradually introduce concepts such as:
 
 Error handling
-Functions
-Modules
 File handling
+Modules
 Object-oriented programming
 APIs
 SQL and databases
@@ -234,7 +274,7 @@ These projects are part of my beginner to early-intermediate Python learning sta
 
 The goal is not to create production-level software yet, but to build a strong programming foundation before moving into more advanced Python development.
 
-After completing the current projects, the next focus will be learning functions, error handling, file handling, modules, APIs, and databases while continuing to build larger applications.
+The projects are intentionally built step-by-step so that each new project introduces or combines a small number of new concepts.
 
 🛠️ Tools
 Python
