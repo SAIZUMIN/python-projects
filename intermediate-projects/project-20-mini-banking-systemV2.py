@@ -1,4 +1,5 @@
-balance = 5000
+total_deposit = 0
+balance = 5000 + total_deposit
 transaction_count = 0
 total_deposit = 0
 total_withdraw = 0

@@ -1,0 +1,5 @@
+Food,150
+Transportation,50
+Jodell,1
+Ryl,2
+Raffy,3
