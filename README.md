@@ -2,44 +2,46 @@
 
 A collection of Python projects I built while learning and improving my programming fundamentals.
 
-This repository documents my progression from basic Python programs to more structured and practical applications. Each project was created to practice programming concepts, strengthen my problem-solving skills, and gradually apply what I learn through hands-on coding.
+This repository documents my progression from basic Python programs to more structured and practical applications. Each project helps me practice programming concepts, strengthen my problem-solving skills, and gradually apply what I learn through hands-on coding.
 
 ## 📚 Project Progress
 
-| #    | Project                         | Level        | Main Concepts                                           |
-| ---- | ------------------------------- | ------------ | ------------------------------------------------------- |
-| 01   | Mini RPG                        | Beginner     | Variables, conditions, loops, random numbers            |
-| 02   | Grade Calculator                | Beginner     | Input, arithmetic, conditions, validation               |
-| 03   | ATM Transaction Tracker         | Beginner     | Loops, conditions, counters, accumulators               |
-| 04   | Quiz Game                       | Beginner     | Input validation, scoring, loops, conditions            |
-| 04V2 | Guessing Game                   | Beginner     | Guessing logic, conditions, loops                       |
-| 05   | Battle Arena                    | Beginner     | Random numbers, loops, conditions, game logic           |
-| 06   | Store Checkout                  | Beginner     | Arithmetic, accumulators, discounts, payment logic      |
-| 07   | Inventory System                | Beginner     | Stock management, validation, conditions                |
-| 08   | Banking System                  | Beginner     | Login system, nested loops, transactions                |
-| 09   | To-Do List Manager              | Intermediate | Lists, indexing, `append()`, `pop()`, loops             |
-| 10   | Student Project Manager         | Intermediate | Multiple lists, searching, `index()`, updating data     |
-| 11   | Expense Tracker                 | Intermediate | Lists, searching, deleting, totals                      |
-| 12   | Contact Manager                 | Intermediate | Searching, updating, deleting data                      |
-| 13   | Library Manager                 | Intermediate | Lists, Boolean state, data management                   |
-| 14   | Product Manager                 | Intermediate | Dictionaries, searching, updating, deleting data        |
-| 15   | Student Record Manager          | Intermediate | Nested dictionaries, structured data, validation        |
-| 16   | Employee Manager                | Intermediate | Nested dictionaries, data updates, calculations         |
-| 17   | Sales Manager                   | Intermediate | Nested dictionaries, calculations, averages             |
-| 18   | Store Sales System              | Intermediate | Nested dictionaries, inventory, calculations            |
-| 19   | Mini Calculator                 | Intermediate | Functions, parameters, return values, arithmetic        |
-| 20   | Banking System V2               | Intermediate | Functions, multiple returns, Boolean values             |
-| 21   | Inventory Functions System      | Intermediate | Functions, dictionaries, mutation, data management      |
-| 22   | User Account System             | Intermediate | Nested dictionaries, functions, login, Boolean returns  |
-| 23   | Library Functions System        | Intermediate | Functions returning data, dictionaries, Boolean state   |
-| 24   | Mini Expense Saver              | Intermediate | File handling, reading and writing files, lists         |
-| 25   | Mini Expense Tracker V2         | Intermediate | Error handling, `try`, `except`, `raise`, dictionaries  |
-| 26   | Mini Utility Toolkit            | Intermediate | Modules, imports, functions, error handling             |
-| 27   | Mini Bank Account System        | Intermediate | OOP, classes, objects, constructors, methods            |
-| 28   | Mini Student Management System  | Intermediate | Multiple objects, lists of objects, searching, updating |
-| 29   | Mini Bank Transfer System       | Intermediate | Object interaction, methods, object references          |
-| 30   | Mini Digital Wallet             | Intermediate | Encapsulation, private attributes, getters, validation  |
-| 31   | Mini Employee Management System | Intermediate | Inheritance, parent classes, child classes, `super()`   |
+| #    | Project                         | Level        | Main Concepts                                                             |
+| ---- | ------------------------------- | ------------ | ------------------------------------------------------------------------- |
+| 01   | Mini RPG                        | Beginner     | Variables, conditions, loops, random numbers                              |
+| 02   | Grade Calculator                | Beginner     | Input, arithmetic, conditions, validation                                 |
+| 03   | ATM Transaction Tracker         | Beginner     | Loops, conditions, counters, accumulators                                 |
+| 04   | Quiz Game                       | Beginner     | Input validation, scoring, loops, conditions                              |
+| 04V2 | Guessing Game                   | Beginner     | Guessing logic, conditions, loops                                         |
+| 05   | Battle Arena                    | Beginner     | Random numbers, loops, conditions, game logic                             |
+| 06   | Store Checkout                  | Beginner     | Arithmetic, accumulators, discounts, payment logic                        |
+| 07   | Inventory System                | Beginner     | Stock management, validation, conditions                                  |
+| 08   | Banking System                  | Beginner     | Login system, nested loops, transactions                                  |
+| 09   | To-Do List Manager              | Intermediate | Lists, indexing, `append()`, `pop()`, loops                               |
+| 10   | Student Project Manager         | Intermediate | Multiple lists, searching, `index()`, updating data                       |
+| 11   | Expense Tracker                 | Intermediate | Lists, searching, deleting, totals                                        |
+| 12   | Contact Manager                 | Intermediate | Searching, updating, deleting data                                        |
+| 13   | Library Manager                 | Intermediate | Lists, Boolean state, data management                                     |
+| 14   | Product Manager                 | Intermediate | Dictionaries, searching, updating, deleting data                          |
+| 15   | Student Record Manager          | Intermediate | Nested dictionaries, structured data, validation                          |
+| 16   | Employee Manager                | Intermediate | Nested dictionaries, data updates, calculations                           |
+| 17   | Sales Manager                   | Intermediate | Nested dictionaries, calculations, averages                               |
+| 18   | Store Sales System              | Intermediate | Nested dictionaries, inventory, calculations                              |
+| 19   | Mini Calculator                 | Intermediate | Functions, parameters, return values, arithmetic                          |
+| 20   | Banking System V2               | Intermediate | Functions, multiple returns, Boolean values                               |
+| 21   | Inventory Functions System      | Intermediate | Functions, dictionaries, mutation, data management                        |
+| 22   | User Account System             | Intermediate | Nested dictionaries, functions, login, Boolean returns                    |
+| 23   | Library Functions System        | Intermediate | Functions returning data, dictionaries, Boolean state                     |
+| 24   | Mini Expense Saver              | Intermediate | File handling, reading and writing files, lists                           |
+| 25   | Mini Expense Tracker V2         | Intermediate | Error handling, `try`, `except`, `raise`, dictionaries                    |
+| 26   | Mini Utility Toolkit            | Intermediate | Modules, imports, functions, error handling                               |
+| 27   | Mini Bank Account System        | Intermediate | OOP, classes, objects, constructors, methods                              |
+| 28   | Mini Student Management System  | Intermediate | Multiple objects, lists of objects, searching, updating                   |
+| 29   | Mini Bank Transfer System       | Intermediate | Object interaction, methods, object references                            |
+| 30   | Mini Digital Wallet             | Intermediate | Encapsulation, private attributes, getters, validation                    |
+| 31   | Mini Employee Management System | Intermediate | Inheritance, parent classes, child classes, `super()`                     |
+| 32   | Mini Payment System             | Intermediate | Polymorphism, method overriding, inheritance, reusable methods            |
+| 33   | Mini Notification System        | Intermediate | Abstraction, `ABC`, `@abstractmethod`, polymorphism, type hints, `main()` |
 
 ## 🗂️ Project Structure
 
@@ -79,12 +81,14 @@ python-projects/
 │   ├── project-28-mini-student-management-system.py
 │   ├── project-29-mini-bank-transfer-system.py
 │   ├── project-30-mini-digital-wallet.py
-│   └── project-31-mini-employee-management-system.py
+│   ├── project-31-mini-employee-management-system.py
+│   ├── project-32-mini-payment-system.py
+│   └── project-33-mini-notification-system.py
 │
 └── README.md
 ```
 
-*Note: The project structure above is an example based on the project names. Adjust filenames and folders to match your actual repository.*
+*Note: This project structure is illustrative. Adjust filenames and folders to match your actual repository.*
 
 ## 🎯 Purpose
 
@@ -132,7 +136,7 @@ Each project gradually builds on previous lessons while introducing new concepts
 * Managing student, employee, product, and sales records
 * Calculating totals and averages from stored data
 
-### Functions
+### Functions and Reusable Logic
 
 * Defining and calling functions
 * Parameters and arguments
@@ -143,6 +147,7 @@ Each project gradually builds on previous lessons while introducing new concepts
 * Using function results in conditions
 * Functions that work with dictionaries
 * Modifying mutable data inside functions
+* Reusing common logic through helper methods
 * Separating program logic into reusable functions
 
 ### Error Handling and File Handling
@@ -155,13 +160,15 @@ Each project gradually builds on previous lessons while introducing new concepts
 * Loading and saving program data
 * Handling invalid numeric input
 
-### Modules
+### Modules and Code Organization
 
 * Creating custom Python modules
 * Importing functions from another file
 * Reusing code across files
 * Organizing related utilities
 * Combining imports with error handling
+* Using a `main()` function to organize program execution
+* Using `if __name__ == "__main__":` to control direct execution
 
 ### Object-Oriented Programming (OOP)
 
@@ -179,6 +186,13 @@ Each project gradually builds on previous lessons while introducing new concepts
 * Inheritance
 * Parent and child classes
 * Reusing parent constructors with `super()`
+* Method overriding
+* Polymorphism
+* Abstract base classes using `ABC`
+* Abstract methods using `@abstractmethod`
+* Implementing required methods in child classes
+* Reusing shared methods to reduce duplicated code
+* Type hints for parameters and return values
 
 ### Practical Systems and Problem Solving
 
@@ -190,6 +204,8 @@ Each project gradually builds on previous lessons while introducing new concepts
 * Product and sales management
 * Basic authentication logic
 * Searching and updating records
+* Payment method simulations
+* Notification system simulations
 * Input validation and error handling
 * Debugging and code improvement
 
@@ -223,7 +239,7 @@ Learned to define functions, pass arguments, return values, handle multiple retu
 
 Introduced persistent data storage, file reading and writing, exception handling, input validation, and custom Python modules.
 
-### Projects 27–31: Object-Oriented Programming
+### Projects 27–31: Object-Oriented Programming Foundations
 
 Started applying OOP to practical systems and learned:
 
@@ -234,11 +250,18 @@ Started applying OOP to practical systems and learned:
 * Encapsulation and private attributes
 * Inheritance and code reuse with `super()`
 
+### Project 32: Polymorphism and Method Overriding
+
+Built a Mini Payment System with different payment types. Practiced inheritance, overriding the `pay()` method, and using the same method name for different behaviors.
+
+### Project 33: Abstraction and Reusable OOP Design
+
+Built a Mini Notification System with email, SMS, and push notification types. Practiced abstract base classes, `@abstractmethod`, polymorphism, type hints, shared helper methods, lists of objects, and organizing program execution with `main()`.
+
 ## 🚀 Future Projects
 
 As I continue learning Python, future projects will gradually introduce concepts such as:
 
-* Polymorphism and method overriding
 * Composition and more advanced OOP
 * APIs and HTTP requests
 * SQL and database integration
@@ -251,7 +274,7 @@ As I continue learning Python, future projects will gradually introduce concepts
 
 ## 📌 Current Level
 
-I am progressing from beginner to intermediate Python programming, with an increasing focus on object-oriented programming.
+I am progressing from beginner to intermediate Python programming, with an increasing focus on object-oriented programming and software design.
 
 My goal is to build a strong foundation before moving into more advanced software development, backend engineering, and eventually AI-related projects.
 
